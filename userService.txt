@@ -1,1 +1,7 @@
 get the user data....
+
+git tag is used for releasing the versions of the software
+
+git tag -a <version name or number> -m ""
+
+git tag is used for checking the tags
