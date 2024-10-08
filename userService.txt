@@ -8,7 +8,7 @@ git tag is used for checking the tags
 
 using git push origin <tagname> we can push the tag(version) for local to remote repo.
 
-git checkout -b <branchName> this is used for not touhcing the main brach if there is any bugs in main brach we reslove in sapreate branch.
+git checkout -b <branchName> this is used to create new branch and 
 we use switch -c for changing one branch into anothe branch
 
 if we want to go back the previous branch the shotcut is GIT SWITCH -
